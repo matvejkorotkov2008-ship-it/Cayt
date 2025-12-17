@@ -339,7 +339,10 @@ section {
     font-size: 1.1rem;
     line-height: 1.8;
     color: var(--text-light);
-    text-align: justify;
+    text-align: left;
+    word-spacing: normal;
+    letter-spacing: normal;
+    white-space: normal;
 }
 
 /* Categories - удалены */
